@@ -20,9 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://s3.us-east-2.amazonaws.com/upskill-school/html.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/R.8e95479da2c5e493b835c8533c2d5ba5?rik=FsLtwf5wKb0A1Q&riu=http%3a%2f%2fdevlup.com%2fwp-content%2fuploads%2f2013%2f07%2fcss-logo.jpg&ehk=Uo3AKi7cKWanVe2acMOfLUQizY9rREpU0%2boUjHzShMI%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="" width="40" height="40"/>
-  <img src="" alt="" width="40" height="40"/>
-  <img src="" alt="" width="40" height="40"/>
-
-
+  <img src="https://th.bing.com/th/id/R.8e95479da2c5e493b835c8533c2d5ba5?rik=FsLtwf5wKb0A1Q&riu=http%3a%2f%2fdevlup.com%2fwp-content%2fuploads%2f2013%2f07%2fcss-logo.jpg&ehk=Uo3AKi7cKWanVe2acMOfLUQizY9rREpU0%2boUjHzShMI%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.j_NBcDMrzhsqR52aiVWpwAHaHa?pid=ImgDet&rs=1" alt="Figma" width="40" height="40"/>
 </p>
