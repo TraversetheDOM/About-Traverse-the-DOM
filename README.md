@@ -2,8 +2,6 @@
 - 👀 I’m in interested Front End Web Design and Development.
 - 🌱 I’m currently learning how to design and build websites and web applications.
 - 💞️ I’m looking to collaborate on projects I find very interesting.
-- 📫 You can reach me on my twitter @_salutDami 
-- 💭 Ask me about *cstephenid@yahoo.com*
 
 <!---
 salutDami/salutDami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
