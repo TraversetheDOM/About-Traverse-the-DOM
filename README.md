@@ -1,14 +1,22 @@
-- 👋 Hi, I’m Ikuomola Stephen
-- 👀 I’m in interested Front End Web Design and Development.
-- 🌱 I’m currently learning how to design and build websites and web applications.
-- 💞️ I’m looking to collaborate on projects I find very interesting.
+<h1 align="center">Hello 👋, I'm Ikuomola Stephen</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
+
+- 🌱 I’m currently learning **JavaScript**
+
+- 👯 I’m looking to collaborate on **projects I find interesting**
+
+- 💬 Ask me about **HTML, CSS & JavaScript**
+
+- 📫 How to reach me **cstephenid@yahoo.com**
+
+- 👀 I’m currently learning how to design and build websites and web applications.
+
+
 
 <!---
 salutDami/salutDami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ikuomola-stephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ikuomola-Stephen" height="30" width="40" /></a>
@@ -30,17 +38,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-<h1 align="center">Hello 👋, I'm Ikuomola Stephen</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **projects I find interesting**
-
-- 💬 Ask me about **HTML, CSS & JavaScript**
-
-- 📫 How to reach me **cstephenid@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
