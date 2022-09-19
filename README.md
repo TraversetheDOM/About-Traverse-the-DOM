@@ -36,6 +36,9 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salutDami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salutDami&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<div align = 'center'>
+ <img class="img" width="420"  src="https://streak-stats.demolab.com/?user=ankushtripathii&theme=tokyonight" />
+</div>
 
 
 
