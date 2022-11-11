@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.javascript.com/" target="blank"><img src="https://static.memrise.com/img/400sqf/from/uploads/course_photos/3146044000171223183557.png" alt="Javascript" width="40" height="40"/></a>
  <a href="https://git-scm.com" target="blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" width="40" height="40"/></a>
   <a href="https://www.figma.com" target="blank"> <img src="https://th.bing.com/th/id/R.1706c9f16bd08eb5e03f1df3e0a94a1c?rik=Qd6LRWDQvGRpmw&pid=ImgRaw&r=0" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.notion.so/"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.pn" alt="Notion" width="40" height="40"/></a>
+  <a href="https://www.notion.so/"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/></a>
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salutDami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salutDami&layout=compact&theme=buefy&hide_border=true" /></a> |
