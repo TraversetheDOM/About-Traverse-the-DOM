@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ikuomola Stephen</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
