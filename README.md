@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
-- 📫 How to reach me **cstephenid@yahoo.com**
-
 - 👀 I’m currently learning how to design and build websites and web applications.
 
 
