@@ -1,4 +1,4 @@
-🚀Welcome to Traverse the DOM's GitHub Page🚀 
+🌟 Welcome to Traverse the DOM's GitHub Page 🌟
 =================================
 
 *   👨🏾‍💻   Full Stack Web Development
