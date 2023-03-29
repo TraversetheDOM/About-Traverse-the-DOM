@@ -1,11 +1,10 @@
-Hi 👋 My name is Stephen 
+🚀Welcome to Traverse the DOM's GitHub Page🚀 
 =================================
 
-Web & Mobile app Developer and Youtuber.
+FullStack Web Development 
 ------------------------------------------------
-*   ✉️  Email me @ [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
-*   🚀  Checkout my [YouTube channel](https://www.youtube.com/@TraversetheDOM/)
-*   🤝  I build websites, mobile apps, write blogs, and so much more
+*   ✉️  Send us a mail at [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
+*   💻  Visit our [YouTube channel](https://www.youtube.com/@TraversetheDOM/)
 
 <a href="https://www.twitter.com/_TraverseDOM" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/_TraverseDOM?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
