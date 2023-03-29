@@ -1,4 +1,4 @@
-Hi 👋 My name is Ikuomola Damilola Chidiebere Stephen 
+Hi 👋 My name is Stephen 
 =================================
 
 Web & Mobile app Developer and Youtuber.
