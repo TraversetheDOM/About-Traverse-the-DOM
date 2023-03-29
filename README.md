@@ -1,8 +1,6 @@
 🚀Welcome to Traverse the DOM's GitHub Page🚀 
 =================================
 
-FullStack Web Development 
-------------------------------------------------
 *   ✉️   Email [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
 *   💻   Youtube [Traverse the DOM](https://www.youtube.com/@TraversetheDOM/)
 
