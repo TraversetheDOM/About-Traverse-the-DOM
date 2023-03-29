@@ -3,7 +3,7 @@
 
 FullStack Web Development 
 ------------------------------------------------
-*   ✉️  Send a mail at [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
+*   ✉️  Send a mail ➡ [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
 *   💻  Visit the youtube channel [Traverse the DOM](https://www.youtube.com/@TraversetheDOM/)
 
 <a href="https://www.twitter.com/_TraverseDOM" target="_blank" rel="noreferrer"><img
