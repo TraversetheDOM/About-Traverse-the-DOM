@@ -3,7 +3,7 @@ Hi 👋 My name is Ikuomola Damilola Chidiebere Stephen
 
 Web & Mobile app Developer and Youtuber.
 ------------------------------------------------
-*   ✉️  Email me @ [cstephenid@yaho.com.com](mailto:cstephenid@yahoo.com)
+*   ✉️  Email me @ [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
 *   🚀  Checkout my [YouTube channel](https://www.youtube.com/@TraversetheDOM/)
 *   🤝  I build websites, mobile apps, write blogs, and so much more
 
