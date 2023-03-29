@@ -11,3 +11,5 @@ Web & Mobile app Developer and Youtuber.
                   src="https://img.shields.io/twitter/follow/_TraverseDOM?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/TraversetheDOM" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/TraversetheDOM?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
+<p align="left">
