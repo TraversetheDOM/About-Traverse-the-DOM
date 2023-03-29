@@ -1,6 +1,9 @@
 🌟 Welcome to Traverse the DOM's GitHub Page 🌟
 =================================
 
+Traverse the DOM is run by a talented self taught web developer who is dedicated to helping people improve their coding skills by creating amazing real world websites/web apps using only HTML, CSS and JavaScript. 
+
+---
 *   👨🏾‍💻   Full Stack Web Development
 *   ✉️    Email [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
 
