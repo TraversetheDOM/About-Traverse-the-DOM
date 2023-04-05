@@ -6,9 +6,13 @@ Traverse the DOM is run by a talented self taught web developer who is dedicated
 **Code Principles** || **Accessibility** || **Architecture** || **Production Code** || **Better Code** 
 
 ---
-*   👨🏾‍💻   Full Stack Web Development
+*   🤝    Always open to collaborating on interesting projects
+*   👨🏾‍💻    Full Stack Web Development
 *   ✉️    Email [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
 
+
+<a href="https://www.github.com/TraversetheDOM" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TraversetheDOM?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Tools Used
 <p align="left">
