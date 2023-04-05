@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/TraversetheDOM?logo=github&style=fo
    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-   <a href="https://parceljs.org/" target="_blank" rel="noreferrer"><img src="https://parceljs.org/avatar.b1be591d.avif" width="36" height="36" alt="Parcel" /></a>
+   <a href="https://parceljs.org/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.c613db08794e6ae839efc78493233012?rik=Nyozti99KAALWw&pid=ImgRaw&r=0" width="36" height="36" alt="Parcel" /></a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
 </p>
 
