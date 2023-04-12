@@ -28,6 +28,6 @@ src="https://img.shields.io/github/followers/TraversetheDOM?logo=github&style=fo
 
 <a href="https://www.codepen.io/TraversetheDOM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="36" height="36" /></a>
 <a href="https://www.frontendmentor.io/profile/TraversetheDOM" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="36" height="36" /></a>
-<a href="https://www.dev.to/traversethedom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32"/></a>
+<a href="https://www.dev.to/traversethedom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32"/></a>
 
 
