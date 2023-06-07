@@ -1,5 +1,3 @@
-🌟 Welcome to Traverse the DOM 🌟
-=================================
 
 ![Traverse the DOM](https://github.com/TraversetheDOM/TraversetheDOM/assets/98475912/97c15d2f-bddf-4018-86a5-9656d3f9fe13)
 
