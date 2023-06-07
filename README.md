@@ -5,9 +5,6 @@ Traverse the DOM is run by a talented self taught web developer who is dedicated
 
 
 ---
-*   💎    Code Principles - Accessibility - Architecture - Production Code - Better Code
-*   🤝    Always open to collaborating on interesting projects
-*   👨🏾‍💻    Frontend Development
 *   ✉️    Email [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
 
 
