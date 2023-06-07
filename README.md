@@ -4,10 +4,6 @@
 Traverse the DOM is run by a talented self taught web developer who is dedicated to helping people improve their coding skills by creating amazing real world websites/web apps using only HTML, CSS and JavaScript. 
 
 
----
-*   ✉️    Email [cstephenid@yahoo.com](mailto:cstephenid@yahoo.com)
-
-
 <a href="https://www.github.com/TraversetheDOM" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TraversetheDOM?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
