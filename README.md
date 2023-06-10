@@ -1,7 +1,7 @@
 
 ![Traverse the DOM](https://github.com/TraversetheDOM/TraversetheDOM/assets/98475912/97c15d2f-bddf-4018-86a5-9656d3f9fe13)
 
-[![](https://visitcount.itsvg.in/api?id=TraversetheDOM&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TraversetheDOM&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ### Tools Used
 <p align="left">
