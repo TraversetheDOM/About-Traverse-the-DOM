@@ -1,7 +1,8 @@
+# Hi there 👋🏽
 
-![Traverse the DOM](https://github.com/TraversetheDOM/TraversetheDOM/assets/98475912/97c15d2f-bddf-4018-86a5-9656d3f9fe13)
+My name is Stephen Ikuomola, and I am the brain behind Traverse the DOM. 
 
-[![](https://visitcount.itsvg.in/api?id=TraversetheDOM&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 ### Tools Used
 <p align="left">
@@ -17,7 +18,6 @@
 
 <a href="https://www.codepen.io/TraversetheDOM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="36" height="36" /></a>
 <a href="https://www.frontendmentor.io/profile/TraversetheDOM" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="36" height="36" /></a>
-<a href="https://www.dev.to/traversethedom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32"/></a>
 <a href="https://traversethedom.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/ikuomola-stephen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
