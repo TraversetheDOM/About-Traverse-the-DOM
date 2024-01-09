@@ -1,6 +1,6 @@
 # Hi there 👋🏽
 
-My name is Stephen Ikuomola, and I am the brain behind TraversetheDOM. 
+My name is Stephen Ikuomola, and I am the founder of TraversetheDOM. 
 
 As a mechanical engineering graduate with over 2 years of professional experience, I have developed a strong foundation in problem-solving, critical thinking, effective communication, leadership, attention to detail and the ability to collaborate in a team. These skills have served me well in the field I have found myself in and sparked my interest in front-end development.
 
