@@ -24,6 +24,5 @@ I am excited to apply my engineering background and newly acquired front-end dev
 
 <a href="https://www.codepen.io/TraversetheDOM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="36" height="36" /></a>
 <a href="https://www.frontendmentor.io/profile/TraversetheDOM" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png" width="36" height="36" /></a>
-<a href="https://traversethedom.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="36" height="36" /></a> 
 <a href="https://www.pinterest.com/traversetheDOM" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/pinterest/pinterest_PNG50.png" width="36" height="36" alt="Pinterest"/></a>
 
