@@ -3,7 +3,11 @@
 My name is Stephen Ikuomola, and I am the founder of TraversetheDOM. 
 
 
-As a mechanical engineering graduate with over 2 years of professional experience, I have developed a strong foundation in problem-solving, critical thinking, effective communication, leadership, attention to detail and the ability to collaborate in a team. These skills have served me well in the field I have found myself in and sparked my interest in front-end development. I have always been passionate about technology and its ability to improve our lives. This passion led me to pursue self-study in front-end development technologies such as HTML, CSS, and JavaScript. I have also completed several online courses and projects to develop my skills further. I am excited to apply my engineering background and newly acquired front-end development skills to create intuitive, user-friendly interfaces. My unique technical expertise and creative problem-solving will make me a valuable asset to any team.
+As a mechanical engineering graduate with over 2 years of professional experience, I have developed a strong foundation in problem-solving, critical thinking, effective communication, leadership, attention to detail and the ability to collaborate in a team. These skills have served me well in the field I have found myself in and sparked my interest in front-end development. 
+
+I have always been passionate about technology and its ability to improve our lives. This passion led me to pursue self-study in front-end development technologies such as HTML, CSS, and JavaScript. I have also completed several online courses and projects to develop my skills further. 
+
+I am excited to apply my engineering background and newly acquired front-end development skills to create intuitive, user-friendly interfaces. My unique technical expertise and creative problem-solving will make me a valuable asset to any team.
 
 I also run a web design agency that helps clients elevate their online presence by crafting stunning websites and digital experience as well as empowering the next generation of developers with our eductational platofrm. 
 
