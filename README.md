@@ -3,11 +3,7 @@
 My name is Stephen Ikuomola.
 
 
-As a mechanical engineering graduate with experience in the automotive industry, I have developed a strong foundation in problem-solving, critical thinking, effective communication, leadership, attention to detail and the ability to collaborate in a team. These skills have served me well in the field I have found myself in and sparked my interest in front-end development. 
-
-I have always been passionate about technology and its ability to improve our lives. This passion led me to pursue self-study in front-end development technologies such as HTML, CSS, and JavaScript. I have also completed several online courses and projects to develop my skills further. 
-
-I am excited to apply my engineering background and newly acquired front-end development skills to create intuitive, user-friendly interfaces. My unique technical expertise and creative problem-solving will make me a valuable asset to any team.
+As a skilled Software Developer, I am deeply passionate about crafting exceptional user experiences and delivering modern solutions with a customer-first mindset. My HTML, CSS, and Javascript expertise allows me to translate design concepts into intuitive and efficient Front-End development seamlessly. With my expertise, I am confident in my ability to engage and delight users with the digital experiences I create.
 
 
 ### Tools Used
