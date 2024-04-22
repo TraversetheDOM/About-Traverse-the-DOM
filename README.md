@@ -16,4 +16,6 @@ As a skilled Software Developer, I am deeply passionate about crafting exception
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
 </p>
 
+### GitRoll Badge
+<a href="https://gitroll.io/profile/uhvJnv99Iy8RAGkqG5zD5O55Sw6S2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhvJnv99Iy8RAGkqG5zD5O55Sw6S2" alt="GitRoll Profile Badge"/></a>
 
