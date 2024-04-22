@@ -17,5 +17,5 @@ As a skilled Software Developer, I am deeply passionate about crafting exception
 </p>
 
 ### GitRoll Badge
-<a href="https://gitroll.io/profile/uhvJnv99Iy8RAGkqG5zD5O55Sw6S2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhvJnv99Iy8RAGkqG5zD5O55Sw6S2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uhvJnv99Iy8RAGkqG5zD5O55Sw6S2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhvJnv99Iy8RAGkqG5zD5O55Sw6S2" alt="GitRoll Profile Badge" width="100" height="100"/></a>
 
