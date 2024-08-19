@@ -14,6 +14,7 @@ As a skilled Software Developer, I am deeply passionate about crafting exception
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
    <a href="https://parceljs.org/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.c613db08794e6ae839efc78493233012?rik=Nyozti99KAALWw&pid=ImgRaw&r=0" width="36" height="36" alt="Parcel" /></a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
+   <a href="" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.e867b070234563d05af0f088e2ad3038?rik=6txz8e2gabb6ZQ&pid=ImgRaw&r=0" width="36" height="36" alt ="Open Props"/></a>
 </p>
 
 
